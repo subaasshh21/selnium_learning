@@ -7,7 +7,7 @@ class Myclass:
         print("new changes")
 
     def my_method_2(self):
-        print("welcome")# inprogress-> conflicts resolve
+        print("welcome")
 
 obj = Myclass()
 obj.my_method()
